@@ -1,0 +1,5 @@
+baseURL = "https://example.org"
+languageCode = 'en-us'
+title = 'Channdeth SOK'
+theme = 'hugo-theme-stack'
+canonifyURLs = true

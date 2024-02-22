@@ -1,0 +1,36 @@
++++
+author = "Channdeth SOK"
+title = "Market for Lemons"
+date = "2024-01-23"
+description = "A Model of the Used Car Market with Asymmetric Information"
+math = "true"
+tags = [
+    "economics",
+]
+categories = [
+    "Economics",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
+image = "cover.png"
++++
+
+## Introduction
+
+George Akerlof, along with Michael Spence and Joseph Stiglitz, was awarded the Nobel Prize in Economic Sciences in 2001 for his pioneering work on asymmetric information, particularly in the context of the used car market. Akerlof's seminal paper, "The Market for Lemons: Quality Uncertainty and the Market Mechanism", published in 1970, provided the basis for understanding how asymmetric information can lead to market inefficiencies. 
+
+This model shows that a market may function badly if the informed party has no way to signal the quality of the good it is selling.
+
+## The Model:
+Suppose that two types of car exist in the market for used cars: 
+- good cars
+- bad cars, so-called the *lemons* in American slang.
+
+In the market 
+- large number of buyers $N$ and the sellers $M$
+- Quality of the cars, $s$, of the potential cars entering the market, cdf $F(s)$ and the density $f(s)$
+
+### Example: The Market for Used-cars
+
+### Exercise
+## Conclusion

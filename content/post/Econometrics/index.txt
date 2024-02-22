@@ -1,0 +1,41 @@
++++
+author = "Channdeth SOK"
+title = "Econometrics"
+date = "2024-01-22"
+description = "The ordinary least square (OLS) estimator and some of its extensions"
+math = "true"
+tags = [
+    "Applied Mathematics",
+    "economics",
+]
+categories = [
+    "Economics",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
+image = "cover.jpg"
++++
+
+
+## 1. Introduction 
+
+### 1.1. Definition 
+
+### 1.2. Why?
+
+### 1.3. Single-product monopoly
+## 2. The Fundamentals of Linear Regressions
+
+## 3. Statistical Uncertainty in Linear Regressions
+
+## 4. Regressions and Non Causal Predictions
+
+## 5. Linear regression and causality
+
+## 6. Instrument variables
+
+## References 
+- Lecture slides: **@ENSAE_Paris**
+- Angrist, J. and S. Pischke (2009), Mostly Harmless Econometrics, An Empiricist’s Companion, Princeton University Press.
+- Wooldridge, J. (2008), Introductory Econometrics: A Modern Approach, South-Western College Publishing.
+- Crépon, B. & Jacquemet, N. (2015), Econométrie : méthodes et applications.
