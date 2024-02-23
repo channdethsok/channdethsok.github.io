@@ -19,12 +19,13 @@ menu:
 
 ## Education
 
-- **[ENSAE Paris](https://www.ensae.fr/) (2022 - Present)**
-  - *Major: Data Science, Statistics, and Machine Learning*
+- **[ENSAE Paris,](https://www.ensae.fr/) [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) (2022 - Now)**
+  - *Engineer's degree (diplôme d’ingénieur) in : Data Science, Statistics, and Machine Learning*
   <!--- *Expected Graduation Date: [Month, Year]*
 - **[Institute of Technology of Cambodia](https://itc.edu.kh/) (2019-2022)** 
-  - *Engineering program : 3 years of formation in mathematics, physics
-and information. Admitted in ENSAE Paris through competitive examination by IP_Paris at the end of 2021*
+    - *Engineering Program: 3 years of formation in mathematics, physics, and information.*
+    - *Admitted to ENSAE Paris through a competitive examination by IP_Paris at the end of 2021.*
+
 ## Work Experience
 
 ### [Paris Partners Softwares](https://www.parispartners.com/)
