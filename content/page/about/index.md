@@ -1,12 +1,12 @@
 ---
 title: Curriculum Vitae
 description: Student @ENSAE Paris, majoring in Data Science, Statistics, and Machine Learning.
-date: '2024-01-22'
+date: '2024-03-13'
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
+license: csok
 #lastmod: '2020-10-09'
 menu:
     main: 
@@ -17,6 +17,7 @@ menu:
 
 **Author:** Channdeth
 
+You can find my CV in the following post or in [pdf]()
 ## Education
 
 - **[ENSAE Paris,](https://www.ensae.fr/) [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) (2022 - Now)**
@@ -35,17 +36,17 @@ menu:
 - *Position: AI engineer Intern*
 - *Duration: June 2023- September 2023*
 - *Description:*
-    - Study Difference large language model and application.
+    - Study Difference large language models and application.
     - Build a system by using chat models( GPT3.5, LLama2) that evaluate resumes based on a job description and provides a list of qualified and disqualified candidates with the reasons for each decision.
 
 ## Skills
 
-| Category              | Skills                                         |
-|-----------------------|------------------------------------------------|
-| Programming Languages | Python, R Programming, Stata                   |
-| Databases             | SQL                                            |
-| Development Tools     | Visual Studio Code, Git                         |
-| OS and Software       | Windows, Mac OS X, Linux, Microsoft Office, LaTeX |
+| Category              | Skills                                                 |
+|-----------------------|--------------------------------------------------------|
+| Programming Languages | Python, R, Stata                                       |
+| Databases             | SQL                                                    |
+| Development Tools     | Visual Studio Code, Git/Gitlab                         |
+| OS and Software       | Windows, Mac OS X, Linux, Microsoft Office, LaTeX      |
 
 ## Languages
 
@@ -80,7 +81,7 @@ menu:
 
 ## Awards and Honors
 
-| Award                              | Organization                          | Date        | Achievement                                                                                                     |
+| Award                              | Organization                          | Date        |Achievement                                                                                     |
 |------------------------------------|---------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | The Eiffel Excellence Scholarship   | Associated with ENSAE Paris           | July 2022   | Received the Eiffel Excellence Scholarship to pursue an engineer’s degree (diplôme d’ingénieur) at ENSAE Paris based on academic records. |
 | Grade A Baccalaureate              | Ministry of Education of Cambodia     | Oct 2019   | Obtained a grade A, ranking in the Top 20 among all participants in the national Baccalaureate exam.            |
@@ -89,6 +90,6 @@ menu:
 ## Divers
 
 - Tutoring first and second year students at ITC in mathematics and physics, and tutoring students who want to take the entrance exam for IP-Paris in mathematics and physics.
-- Active member at [Association Polytechnique khmers (AXK)](https://axkhmer.org/)
+- Active member and Vice general secretary @ [Association Polytechnique khmers (AXK)](https://axkhmer.org/)
 
 
