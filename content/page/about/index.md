@@ -28,6 +28,9 @@ menu:
 
 ## Work Experience
 
+### [Ai-vidence](https://www.ai-vidence.com)
+- *Position: LLM engineer Intern*
+- *Duration: March 2024- Present*
 ### [Paris Partners Softwares](https://www.parispartners.com/)
 - *Position: AI engineer Intern*
 - *Duration: June 2023- September 2023*
