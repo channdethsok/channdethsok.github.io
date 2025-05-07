@@ -1,4 +1,28 @@
-baseURL = "https://example.org"
+baseURL = 'https://channdethsok.github.io/'
 languageCode = 'en-us'
-title = 'Channdeth SOK'
-canonifyURLs = true
+title = 'Channdeth Sok'
+theme = 'hugo-xmin'
+
+[params]
+  description = "Channdeth SOK | Data Science Portfolio"
+    footer = "&copy; 2025 Channdeth SOK | <a href='mailto:channdeth.sok@ensae.fr'>Contact</a> | <a href='https://www.linkedin.com/in/channdethsok' target='_blank'>LinkedIn</a>"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 3
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

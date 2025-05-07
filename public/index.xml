@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Channdeth Sok</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Channdeth Sok</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;This is my &lt;strong&gt;first Hugo post&lt;/strong&gt;!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Channdeth SOK&lt;/strong&gt;&lt;br&gt;&#xA;📍 91120 Palaiseau, France&lt;br&gt;&#xA;📧 &lt;a href=&#34;mailto:channdeth.sok@ensae.fr&#34;&gt;channdeth.sok@ensae.fr&lt;/a&gt; | &lt;a href=&#34;mailto:channdeth.sok@polytechnique.edu&#34;&gt;channdeth.sok@polytechnique.edu&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;https://www.linkedin.com/in/channdethsok&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;educational-background&#34;&gt;Educational Background&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2024–2025&lt;/strong&gt;: Institut Polytechnique de Paris — M2 Data Science&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2022–2025&lt;/strong&gt;: ENSAE Paris — Diplôme d’ingénieur in Data Science, Statistics and Machine Learning&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2019–2022&lt;/strong&gt;: Institute of Technology of Cambodia — Engineering (Mathematics, Physics, Info)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI-VIDENCE — LLM Engineer Intern&lt;/strong&gt;&lt;br&gt;&#xA;📍 Mar 2024 – Aug 2024&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built a trustworthy conversational agent (chatbot) capable of accurately answering questions based on document content.&lt;/li&gt;&#xA;&lt;li&gt;Applied RAG techniques to reduce hallucination and improve factual consistency.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech:&lt;/strong&gt; Python, LLMs, RAG, LangChain, HuggingFace, Flask&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Paris Partners Software — Data Science &amp;amp; AI Intern&lt;/strong&gt;&lt;br&gt;&#xA;📍 Sep 2023 – Jun 2023&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
