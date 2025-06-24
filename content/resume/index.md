@@ -23,6 +23,11 @@ type: "page"
 
 ## Professional Experience
 
+**Forvia — Data Science Intern**  
+📍 May 2025 – Present 
+- Detect and mitigate Hallucination of LLMs in entreprise context.
+- **Tech:** Python, LLMs, RAG, Palantir Foundry, Typescript
+
 **AI-VIDENCE — LLM Engineer Intern**  
 📍 Mar 2024 – Aug 2024  
 - Built a trustworthy conversational agent (chatbot) capable of accurately answering questions based on document content.  
