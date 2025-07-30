@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Channdeth Sok</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Channdeth Sok</description>
+    <title>Other on Channdeth Sok</title>
+    <link>http://localhost:1313/posts/other/</link>
+    <description>Recent content in Other on Channdeth Sok</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/ml/hello-world/</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ml/hello-world/</guid>
-      <description>&lt;p&gt;This is my &lt;strong&gt;first Hugo post&lt;/strong&gt;!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/ot/hello-world/</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ot/hello-world/</guid>
-      <description>&lt;p&gt;This is my &lt;strong&gt;first Hugo post&lt;/strong&gt;!&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/posts/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Apache Spark &amp; Big Data</title>
       <link>http://localhost:1313/posts/other/intro_spark/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/other/intro_spark/</guid>
       <description>&lt;h2 id=&#34;11-what-is-big-data&#34;&gt;1.1 What is Big Data?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;-definition&#34;&gt;➤ Definition:&lt;/h3&gt;&#xA;&lt;p&gt;Big Data refers to datasets that are too large or complex to be processed by traditional data processing tools (e.g., Excel, single-machine Python scripts).&lt;/p&gt;&#xA;&lt;h3 id=&#34;-characteristics-the-3-vs--more&#34;&gt;➤ Characteristics (The 3 Vs + more):&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;th&gt;V&lt;/th&gt;&#xA;      &lt;th&gt;Description&lt;/th&gt;&#xA;    &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;b&gt;Volume&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&#xA;      &lt;td&gt;Huge amounts of data (TBs, PBs)&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&lt;span style=&#34;color:green&#34;&gt;&lt;b&gt;Velocity&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&#xA;      &lt;td&gt;Fast data generation &amp; processing (e.g., real-time logs)&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;b&gt;Variety&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&#xA;      &lt;td&gt;Structured, unstructured, and semi-structured data&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&lt;b&gt;Veracity&lt;/b&gt;&lt;/td&gt;&#xA;      &lt;td&gt;Trustworthiness of the data&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/td&gt;&#xA;      &lt;td&gt;Insights extracted from the data&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;-common-examples&#34;&gt;➤ Common Examples:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Logs from millions of devices&lt;/li&gt;&#xA;&lt;li&gt;Financial transaction data&lt;/li&gt;&#xA;&lt;li&gt;Clickstreams from web traffic&lt;/li&gt;&#xA;&lt;li&gt;Social media feeds&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;12-traditional-vs-distributed-systems&#34;&gt;1.2 Traditional vs Distributed Systems&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Aspect&lt;/th&gt;&#xA;          &lt;th&gt;Traditional Tools&lt;/th&gt;&#xA;          &lt;th&gt;Distributed Systems (e.g., Spark)&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Scale&lt;/td&gt;&#xA;          &lt;td&gt;Single machine&lt;/td&gt;&#xA;          &lt;td&gt;Cluster of machines&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Fault Tolerance&lt;/td&gt;&#xA;          &lt;td&gt;Weak&lt;/td&gt;&#xA;          &lt;td&gt;Strong (data replicated across nodes)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Performance&lt;/td&gt;&#xA;          &lt;td&gt;Bottlenecked by hardware&lt;/td&gt;&#xA;          &lt;td&gt;Scales with more machines&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Examples&lt;/td&gt;&#xA;          &lt;td&gt;Pandas, Excel, R&lt;/td&gt;&#xA;          &lt;td&gt;Spark, Hadoop, Dask, Flink&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;13-overview-of-apache-spark&#34;&gt;1.3 Overview of Apache Spark&lt;/h2&gt;&#xA;&lt;h3 id=&#34;-what-is-apache-spark&#34;&gt;➤ What is Apache Spark?&lt;/h3&gt;&#xA;&lt;p&gt;Apache Spark is an open-source, distributed computing engine designed for large-scale data processing and analytics. It has become the &lt;strong&gt;de facto engine&lt;/strong&gt; for big data analytics in many industries due to its speed, scalability, and ease of use.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Channdeth SOK&lt;/strong&gt;&lt;br&gt;&#xA;📍 91120 Palaiseau, France&lt;br&gt;&#xA;📧 &lt;a href=&#34;mailto:channdeth.sok@ensae.fr&#34;&gt;channdeth.sok@ensae.fr&lt;/a&gt; | &lt;a href=&#34;mailto:channdeth.sok@polytechnique.edu&#34;&gt;channdeth.sok@polytechnique.edu&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;https://www.linkedin.com/in/channdethsok&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;educational-background&#34;&gt;Educational Background&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2024–2025&lt;/strong&gt;: Institut Polytechnique de Paris — M2 Data Science&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2022–2025&lt;/strong&gt;: ENSAE Paris — Diplôme d’ingénieur in Data Science, Statistics and Machine Learning&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2019–2022&lt;/strong&gt;: Institute of Technology of Cambodia — Engineering (Mathematics, Physics, Info)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Forvia — Data Science Intern&lt;/strong&gt;&lt;br&gt;&#xA;📍 May 2025 – Present&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Detect and mitigate Hallucination of LLMs in entreprise context.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech:&lt;/strong&gt; Python, LLMs, RAG, Palantir Foundry, Typescript&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI-VIDENCE — LLM Engineer Intern&lt;/strong&gt;&lt;br&gt;&#xA;📍 Mar 2024 – Aug 2024&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/nlp/selfcheckgpt-metaqa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nlp/selfcheckgpt-metaqa/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
