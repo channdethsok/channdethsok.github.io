@@ -8,7 +8,7 @@ type: "page"
 
 **Channdeth SOK**  
 📍 91120 Palaiseau, France  
-📧 channdeth.sok@ensae.fr | channdeth.sok@polytechnique.edu  
+📧 channdeth [dot] sok [at] ensae [dot] fr | channdeth [dot] sok [at] polytechnique [dot] edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/channdethsok)
 
 ---
