@@ -7,7 +7,7 @@ type: "page"
 ---
 
 **Channdeth SOK**  
-📍 91120 Palaiseau, France  
+📍 Paris, France  
 📧 channdeth [dot] sok [at] ensae [dot] fr | channdeth [dot] sok [at] polytechnique [dot] edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/channdethsok)
 
@@ -26,7 +26,7 @@ type: "page"
 **Forvia — Data Science Intern**  
 📍 May 2025 – Present 
 - Detect and mitigate Hallucination of LLMs in entreprise context.
-- **Tech:** Python, LLMs, RAG, Palantir Foundry, Typescript
+- **Tech:** Python, LLMs, RAG, Palantir Foundry, Typescript, PySpark, SQL
 
 **AI-VIDENCE — LLM Engineer Intern**  
 📍 Mar 2024 – Aug 2024  
