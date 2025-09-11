@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 description: "ENSAE Paris -- MSc Data science @ Institut Polytechnique de Paris"
-date: "2024-05-07"
+date: "2025-07-07"
 url: "/resume/"
 type: "page"
 ---
@@ -25,7 +25,12 @@ type: "page"
 
 **Forvia — Data Science Intern**  
 📍 May 2025 – Present 
-- Detect and mitigate Hallucination of LLMs in entreprise context.
+- The objective of this internship is to develop and implement methods for detecting hallucinations in agentic RAG using large language models (LLMs). The focus will be on
+- conducting the state-of-the-art review of hallucinations in LLMs and chatbots, coupled with retrieval augmented generation (RAG)
+- designing robust evaluation metrics and detection algorithms that can be applied to an existing chatbot system in Palantir Agents.
+- enhancing the reliability and trustworthiness of chatbot responses in a RAG context by identifying and mitigating hallucinated content in real time.
+- evaluating the system on both public and private datasets to ensure effectiveness and generalizability.
+- optimizing the latency of the detection system to maintain a seamless user experience.
 - **Tech:** Python, LLMs, RAG, Palantir Foundry, Typescript, PySpark, SQL
 
 **AI-VIDENCE — LLM Engineer Intern**  
@@ -52,8 +57,11 @@ type: "page"
 ---
 ## Projects
 
+**Annealed Sinkhorn for Optimal Transport: convergence, regularization path and debiasing**(Course OT)
+ Implement in Ott-Jax about "[Lénaïc Chizat (2024). Annealed Sinkhorn for Optimal Transport: convergence, regularization path and debiasing](https://arxiv.org/pdf/2408.11620)" [Google Colab](https://colab.research.google.com/drive/11CHwG22LLoQ_uKzt64Qb-IWrmea-89uS?usp=sharing)
+
 **Agnostic LLM Retriever** (VINCI, Jan–Apr 2025)  
-Built a generic but customizable LLM-based IR module in Python for diverse use cases.  
+Developing an essential retriever (LLM) that would be reboust enough to efficiently deal with generic use cases, but gnostic enough to be easily customized to deal with specific use cases. This would almost be like a package for information retrieval built for Python to service all LLM use cases that would want or need to use it 
 *Tech: LLM, LangChain, HuggingFace*
 
 **Education Investment Ranking** (Sep–Dec 2022)  
@@ -61,7 +69,7 @@ Constructed investment indicators to score countries on education investment opp
 *Tech: EDA, PCA, scoring, visualization*
 
 **Explaining Math Gaps** (Collège de France, Nov 2022–May 2023)  
-Analyzed determinants of math performance among French students using panel data.  
+The primary objective of this project is to investigate the possible determinants of mathematics performance gaps among French students. By leveraging data from the Direction de l'Évaluation, de la Prospective et de la Performance (DEPP) panel related to Premier Degré, we aim to identify key factors influencing academic outcomes in mathematics.
 *Tech: EDA, regression, visualization*
 
 ---
@@ -100,7 +108,7 @@ Analyzed determinants of math performance among French students using panel data
 ## Volunteering
 
 - Vice General Secretary at AXK (Feb 2024 – Mar 2025)  
-- Volunteer Math tutor for ITC students and IP-Paris candidates
+- Volunteer Math tutor for ITC students and IP-Paris candidates in Cambodia.
 
 ---
 
