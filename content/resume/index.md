@@ -13,6 +13,24 @@ type: "page"
 
 ---
 
+<details open style="margin: 1rem 0; border: 1px solid #ccc; border-radius: 8px; padding: 1rem; background: #fdfdfd; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <summary style="font-weight: bold; font-size: 1.1rem; cursor: pointer; list-style: none;">
+    📑 Table of Contents
+  </summary>
+  <ul style="margin-top: 0.5rem; line-height: 1.6;">
+    <li><a href="#educational-background">Educational Background</a></li>
+    <li><a href="#professional-experience">Professional Experience</a></li>
+    <li><a href="#it-skills">IT Skills</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#language-skills">Language Skills</a></li>
+    <li><a href="#personal-qualities">Personal Qualities</a></li>
+    <li><a href="#-personal-interests">Personal Interests</a></li>
+    <li><a href="#volunteering">Volunteering</a></li>
+    <li><a href="#prizes--awards">Prizes & Awards</a></li>
+  </ul>
+</details>
+
+---
 ## Educational Background
 
 - **2024–2025**: Institut Polytechnique de Paris — M2 Data Science  
@@ -58,18 +76,24 @@ type: "page"
 ## Projects
 
 **Annealed Sinkhorn for Optimal Transport: convergence, regularization path and debiasing**(Course OT)
- Implement in Ott-Jax about "[Lénaïc Chizat (2024). Annealed Sinkhorn for Optimal Transport: convergence, regularization path and debiasing](https://arxiv.org/pdf/2408.11620)" [Google Colab](https://colab.research.google.com/drive/11CHwG22LLoQ_uKzt64Qb-IWrmea-89uS?usp=sharing)
 
-**Agnostic LLM Retriever** (VINCI, Jan–Apr 2025)  
-Developing an essential retriever (LLM) that would be reboust enough to efficiently deal with generic use cases, but gnostic enough to be easily customized to deal with specific use cases. This would almost be like a package for information retrieval built for Python to service all LLM use cases that would want or need to use it 
+Implement in Ott-Jax about "[Lénaïc Chizat (2024). Annealed Sinkhorn for Optimal Transport: convergence, regularization path and debiasing](https://arxiv.org/pdf/2408.11620)" [Google Colab](https://colab.research.google.com/drive/11CHwG22LLoQ_uKzt64Qb-IWrmea-89uS?usp=sharing)
+
+**Agnostic LLM Retriever** (VINCI, Jan–Apr 2025) 
+
+Developing an essential retriever (LLM) that would be reboust enough to efficiently deal with generic use cases, but gnostic enough to be easily customized to deal with specific use cases. This would almost be like a package for information retrieval built for Python to service all LLM use cases that would want or need to use it.
+
 *Tech: LLM, LangChain, HuggingFace*
 
 **Education Investment Ranking** (Sep–Dec 2022)  
 Constructed investment indicators to score countries on education investment opportunity.  
+
 *Tech: EDA, PCA, scoring, visualization*
 
-**Explaining Math Gaps** (Collège de France, Nov 2022–May 2023)  
+**Exploring Determinants of Mathematics Performance Gaps Among French Students** (Collège de France, Nov 2022–May 2023)  
+
 The primary objective of this project is to investigate the possible determinants of mathematics performance gaps among French students. By leveraging data from the Direction de l'Évaluation, de la Prospective et de la Performance (DEPP) panel related to Premier Degré, we aim to identify key factors influencing academic outcomes in mathematics.
+
 *Tech: EDA, regression, visualization*
 
 ---
